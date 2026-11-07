@@ -8,7 +8,6 @@
 ![Overview](images/Overview.png)
 ![Price Drivers](images/Price_Drivers.png)
 
-**Live dashboard:** [Tableau Public]([https://public.tableau.com/app/profile/sagar.parmar2316/viz/IndiaUsed-CarListingsDashboard/Overview](https://public.tableau.com/views/IndiaUsed-CarListingsDashboard/Overview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 ## Question
 Which states, brands and car features drive the listed value of used cars, and how much do owner history and accident history change the price?
