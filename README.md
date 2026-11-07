@@ -1,5 +1,10 @@
 # Indian Used-Car Listings Dashboard (2000–2023)
 
+![Dashboard walkthrough](images/Indian_Car_sales_dahboards.gif)
+
+**Live dashboard:** [Tableau Public](https://public.tableau.com/app/profile/sagar.parmar2316/viz/IndiaUsed-CarListingsDashboard/Overview)
+
+
 ![Overview](images/Overview.png)
 ![Price Drivers](images/Price_Drivers.png)
 
